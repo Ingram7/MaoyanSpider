@@ -11,3 +11,6 @@
 影院
 
 ![image](https://github.com/Ingram7/MaoyanSpider/blob/master/MaoyanSpider/3.png)
+
+
+![image](https://github.com/Ingram7/MaoyanSpider/blob/master/MaoyanSpider/out.png)
